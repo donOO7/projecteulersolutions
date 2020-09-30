@@ -1,2 +1,2 @@
 # projecteulersolutions
-Here I will give the solutions of project euler questions.
+In this repository the solution of project euler is given.You can update this.
